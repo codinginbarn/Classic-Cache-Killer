@@ -1,7 +1,3 @@
-# Classic-Cache-Killer
-
-Automatically clear your browser cache before loading a page.
-
-## Classic Cache Killer Chrome / Edge Extension
+# Classic Cache Killer Chrome Extension
 
 Source code of Classic Cache Killer Chrome Extension
